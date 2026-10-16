@@ -77,7 +77,7 @@ Download the latest published release from the official release page:
 
 For the published 3.3.9 release:
 
-**[LatentOS Launcher v3.3.8](https://github.com/ansht2649-spec/LatentOS-Releases/releases/tag/v3.3.8)**
+**[LatentOS Launcher v3.3.9](https://github.com/ansht2649-spec/LatentOS-Releases/releases/tag/v3.3.9)**
 
 ### Installation
 
