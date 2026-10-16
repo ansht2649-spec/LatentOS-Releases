@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ansht2649-spec/LatentOS-Releases/releases">Downloads</a> ·
-  <a href="https://github.com/ansht2649-spec/LatentOS-Releases/releases/tag/v3.3.8">Latest Release</a> ·
+  <a href="https://github.com/ansht2649-spec/LatentOS-Releases/releases/tag/v3.3.9">Latest Release</a> ·
   <a href="https://github.com/ansht2649-spec/LatentOS-Releases/issues">Report an Issue</a>
 </p>
 
@@ -29,7 +29,7 @@ The project combines a dark visual style with glass-inspired elements and purple
 | Detail | Information |
 |---|---|
 | Project | LatentOS |
-| Latest published launcher release | 3.3.8 |
+| Latest published launcher release | 3.3.9 |
 | Release tag | `v3.3.8` |
 | Platform focus | Windows |
 | Project type | Minecraft launcher and client |
@@ -75,7 +75,7 @@ Download the latest published release from the official release page:
 
 **[Download LatentOS from GitHub Releases](https://github.com/ansht2649-spec/LatentOS-Releases/releases/latest)**
 
-For the published 3.3.8 release:
+For the published 3.3.9 release:
 
 **[LatentOS Launcher v3.3.8](https://github.com/ansht2649-spec/LatentOS-Releases/releases/tag/v3.3.8)**
 
@@ -145,7 +145,7 @@ Third-party names and trademarks belong to their respective owners.
 ## Contact and Project Links
 
 - **Official releases:** https://github.com/ansht2649-spec/LatentOS-Releases/releases
-- **Latest release:** https://github.com/ansht2649-spec/LatentOS-Releases/releases/tag/v3.3.8
+- **Latest release:** https://github.com/ansht2649-spec/LatentOS-Releases/releases/tag/v3.3.9
 - **Repository:** https://github.com/ansht2649-spec/LatentOS-Releases
 - **Issue reporting:** https://github.com/ansht2649-spec/LatentOS-Releases/issues
 
