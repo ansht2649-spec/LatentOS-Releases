@@ -30,7 +30,7 @@ The project combines a dark visual style with glass-inspired elements and purple
 |---|---|
 | Project | LatentOS |
 | Latest published launcher release | 3.3.9 |
-| Release tag | `v3.3.8` |
+| Release tag | `v3.3.9` |
 | Platform focus | Windows |
 | Project type | Minecraft launcher and client |
 | Distribution | Official GitHub Releases |
